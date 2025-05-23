@@ -1,4 +1,4 @@
-# 🧩 Jogo da Velha em C (3x3)
+# 🧩 Jogo da Velha em C 
 
 Este projeto consiste na implementação de um **jogo da velha (tic-tac-toe)** em linguagem C, com uma interface em modo texto utilizando uma matriz 5x5 para simular o tabuleiro de 3x3 com divisórias visuais.  
 
